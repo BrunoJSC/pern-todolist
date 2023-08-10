@@ -1,7 +1,5 @@
 # To-Do App
 
-![Todo App Screenshot](/path/to/screenshot.png)
-
 Este é um aplicativo simples de lista de tarefas (To-Do) com um frontend em React e um backend em Node.js com Express e PostgreSQL.
 
 ## Funcionalidades
@@ -41,9 +39,3 @@ Seu GitHub
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-*Captura de tela do aplicativo:*
-
-![Todo App Screenshot](/path/to/screenshot.png)
